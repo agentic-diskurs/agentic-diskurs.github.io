@@ -1,6 +1,6 @@
 baseURL: https://www.diskurs.dev/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Diskurs
 
 module:
   # uncomment line below for local development of module
@@ -34,7 +34,7 @@ params:
     # width: 112
     # height: 28
   font:
-    name: "Open Sans"
+    name: "DM Mono"
     sizes: [400,600]
   hero:
     # Main hero title
